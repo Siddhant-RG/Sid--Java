@@ -127,3 +127,24 @@
 //         System.out.println(result);
 //     }
 // }
+public class App4 {
+
+    public static void PrintArray(int[] array){
+        for(int i=0; i<array.length; i++){
+            System.out.print(array[i]+" ");
+        }
+        
+    }
+
+    public static void main(String[] args) {    
+    
+
+        int arr1[]={1,2,3,4,5};
+        int arr2[]={3,4,5,6,7};
+// PrintArray(arr2);
+// Array as parameters
+// PrintArray(new int[]{12,3,3,4,5,});
+
+
+    }
+}
