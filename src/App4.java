@@ -147,54 +147,71 @@
 // PrintArray(new int[]{12,3,3,4,5,});
 
 
+// //     }
+// // }
+
+
+
+// public class App4{
+//     public static void main(String[] args) {
+
+// //         int array[] []={{1,2,3,3,},{4,5,6,7}};
+// //         int array12[][]=new int [3][3];
+// //         for (int[] array1 : array){
+// //             for (int array2 : array1){
+// //                 System.out.print(array2 + " ");
+// //             }
+// //             System.out.println();
+// //         }
+// //         // for (int[] array1 : array12){
+// //         //     for (int array2 : array1){
+// //         //         System.out.print(array2 + " ");
+// //         //     }
+// //         // //     System.out.println();
+// //         // // }
+
+// //         // int [][][] arr3d={
+// //         //     {{1,2,3},{4,5,6},{7,8,9}},
+// //         //     {{10,11,12},{13,14,15},{16,17,18}},
+// //         //     {{19,20,21},{22,23,24},{25,26,27}}
+// //         // };
+
+
+
+// int arrsid[]={-1,-2,-3,-34,-35};
+// int maximum=Integer.MIN_VALUE;               ///MIN_VALUE
+// for(int i: arrsid){
+//     if (i>maximum){
+//         maximum=i;
+//     }
+// }
+// System.out.println(maximum);
+
+
+
+// System.err.println();
+
+
+
+
+
+
+// //     }
+// // }
+// public class App4 {
+// public static void main(String[] args) {
+    
+//     int arrsid[][]={{1,2,3},
+//     {4,5,6},{7,8,9}
+// };
+// for(int j=0;j<arrsid.length;j++){
+//     for(int i=0;i<arrsid[j].length;i++){
+//         int tempi=arrsid[j][i];
+
+
 //     }
 // }
 
-
-
-public class App4{
-    public static void main(String[] args) {
-
-//         int array[] []={{1,2,3,3,},{4,5,6,7}};
-//         int array12[][]=new int [3][3];
-//         for (int[] array1 : array){
-//             for (int array2 : array1){
-//                 System.out.print(array2 + " ");
-//             }
-//             System.out.println();
-//         }
-//         // for (int[] array1 : array12){
-//         //     for (int array2 : array1){
-//         //         System.out.print(array2 + " ");
-//         //     }
-//         // //     System.out.println();
-//         // // }
-
-//         // int [][][] arr3d={
-//         //     {{1,2,3},{4,5,6},{7,8,9}},
-//         //     {{10,11,12},{13,14,15},{16,17,18}},
-//         //     {{19,20,21},{22,23,24},{25,26,27}}
-//         // };
-
-
-
-int arrsid[]={-1,-2,-3,-34,-35};
-int maximum=Integer.MIN_VALUE;               ///MIN_VALUE
-for(int i: arrsid){
-    if (i>maximum){
-        maximum=i;
-    }
-}
-System.out.println(maximum);
-
-
-
-System.err.println();
-
-
-
-
-
-
-    }
-}
+// }
+    
+// }
