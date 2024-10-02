@@ -9,6 +9,26 @@ const greet = (name) => {
 };
 greet('Sid');
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // 2. First-Class Function
 // JavaScript mai functions ko first-class citizens ki tarah treat kiya jata hai.
 // Iska matlab yeh hai ki functions ko variable mai store, as argument pass,
